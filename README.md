@@ -54,7 +54,14 @@ Frontend (Streamlit) → Backend API (FastAPI) → AI Engine (Transformers)
 
 ## 📷 Screenshots
 
-(Add screenshots here)
+### Dashboard
+![Dashboard](dashboard.png)
+
+### AI Response
+![Response](response.png)
+
+### API
+![API](api.png)
 
 ---
 
